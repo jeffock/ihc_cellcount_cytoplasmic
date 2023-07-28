@@ -10,7 +10,7 @@ ___
 ___
 Original image: cytokeratin 14 (KRT14) stain
 ___
->![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20Screenshots/origin_jpg_img1.png)
+>![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/origin_jpg_img1.png)
 ___
 Annotated cell count: 349
 ___
@@ -22,7 +22,7 @@ ___
 ___
 Original image: cytokeratin 14 (KRT14) stain
 ___
->![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20Screenshots/origin_jpg_img6.png)
+>![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/origin_jpg_img6.png)
 ___
 
 Current model is base model with 600 epochs. 
