@@ -2,27 +2,27 @@
 ___
 Annotated cell count: 62
 ___
->![original heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/temp/README%20images/origin_h5_img1.png)
+>![original heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/origin_h5_img1.png)
 ___
 Predicted cell count: 50
 ___
->![model heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/temp/README%20images/predict_h5_img1.png)
+>![model heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/predict_h5_img1.png)
 ___
 Original image: cytokeratin 14 (KRT14) stain
 ___
->![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/temp/README%20Screenshots/origin_jpg_img1.png)
+>![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20Screenshots/origin_jpg_img1.png)
 ___
 Annotated cell count: 349
 ___
->![original heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/temp/README%20images/origin_h5_img6.png)
+>![original heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/origin_h5_img6.png)
 ___
 Predicted cell count: 478
 ___
->![model heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/temp/README%20images/predict_h5_img6.png)
+>![model heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/predict_h5_img6.png)
 ___
 Original image: cytokeratin 14 (KRT14) stain
 ___
->![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/temp/README%20Screenshots/origin_jpg_img6.png)
+>![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20Screenshots/origin_jpg_img6.png)
 ___
 
 Current model is base model with 600 epochs. 
