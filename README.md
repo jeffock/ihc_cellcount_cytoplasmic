@@ -25,7 +25,7 @@ ___
 >![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/origin_jpg_img6.png)
 ___
 
-Current model is base model with 600 epochs. 
+Current model is 600epoch_KRTmodel_02_shuffle.pth.tar
 
 # Step-by-Step:
 ___
