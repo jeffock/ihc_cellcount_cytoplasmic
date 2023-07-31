@@ -20,7 +20,7 @@ Predicted cell count: 507
 ___
 >![model heatmap](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/predict_h5_img6.png)
 ___
-Original image: cytokeratin 14 (KRT14) stain
+Original image: cytokeratin 5 (KRT5) stain
 ___
 >![original image](https://github.com/jeffock/ihc_cellcount_cytoplasmic/blob/master/README%20images/origin_jpg_img6.png)
 ___
